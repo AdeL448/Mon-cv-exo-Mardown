@@ -27,7 +27,7 @@ Mars 2020 / Novembre 2022
 **Module de formation interne avec Adecco Training** [Ci-jointladocumentation] (https://www.adeccotraining.fr/thematique/management)
 Management et gestion de personnel
 
-**1ère Année BTS Commerce International_**
+**1ère Année BTS Commerce International**<br>
 Septembre 2003 / Juin 2004
 
 **BAC TECHNOLOGIQUE ET TERTIAIRE _option Informatique_**
