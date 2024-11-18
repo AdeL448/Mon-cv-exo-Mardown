@@ -1,6 +1,6 @@
 # Adel N #
 
-![]( https://emojis.sh/emoji/web-developer-working-on-his-laptop-LjgemHqx0o )
+![](https://emojis.sh/emoji/web-developer-working-on-his-laptop-LjgemHqx0o.jpeg)
 
 # TECHNICIEN SYSTEME ET RESEAU #
 
@@ -16,7 +16,7 @@
 > _Chef d'équipe Logistique_ / * Cotelle SA, COLGATE-PALMOLIVE*
 Novembre 2022 / Septembre 2024
 
-_Assistant Logistique_  / * Cotelle SA, COLGATE-PALMOLIVE*
+> _Assistant Logistique_  / * Cotelle SA, COLGATE-PALMOLIVE*
 Responsable des planifications et expéditions
 Mars 2020 / Novembre 2022
 
@@ -28,10 +28,10 @@ Mars 2020 / Novembre 2022
 > **Module de formation interne avec Adecco Training** [Ci-jointladocumentation] (https://www.adeccotraining.fr/thematique/management)
 Management et gestion de personnel
 
-**1ère Année BTS Commerce International**<br>
+> **1ère Année BTS Commerce International**<br>
 Septembre 2003 / Juin 2004
 
-**BAC TECHNOLOGIQUE ET TERTIAIRE _option Informatique_**<br>
+> **BAC TECHNOLOGIQUE ET TERTIAIRE** _option Informatique_<br>
 Mai 2002
 
 
