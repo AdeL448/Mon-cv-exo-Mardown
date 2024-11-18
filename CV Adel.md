@@ -1,8 +1,7 @@
-<center># Adel N #</center>
+# Adel N #
+[](https://emojis.sh/emoji/web-developer-working-on-his-laptop-LjgemHqx0o.jpeg)
 
-![](https://emojis.sh/emoji/web-developer-working-on-his-laptop-LjgemHqx0o.jpeg)
-
-# **TECHNICIEN SYSTEME ET RESEAU** #
+## **TECHNICIEN SYSTEME ET RESEAU** ##
 
 > Suite à la fermeture de l'entreprise dans laquelle j'ai travaillé 17 ans, j'ai décidé de me lancer dans une reconversion professionnelle, à savoir dans les métiers de la tech. En effet, j'ai toujours été attiré par l'informatique et tous ces possibilités. Après avoir étudié les différents secteurs de l'IT, j'ai opté pour les systèmes et réseaux pour commencer et voir par la suite.
 
@@ -46,6 +45,6 @@ Mai 2002
 
 ### A PROPOS DE MOI ###
   - Rigoureux et organisé
-  - Aime Le sport en général
+  - Aime le sport en général
   - Sauveteur Secouriste du Travail
   - La pâtisserie...
