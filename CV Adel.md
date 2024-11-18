@@ -1,6 +1,6 @@
 # Adel N #
 
-[![](https://emojis.sh/emoji/web-developer-working-on-his-laptop-LjgemHqx0o.png)]
+![]( https://emojis.sh/emoji/web-developer-working-on-his-laptop-LjgemHqx0o )
 
 # TECHNICIEN SYSTEME ET RESEAU #
 
