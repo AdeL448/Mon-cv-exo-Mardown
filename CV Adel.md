@@ -2,7 +2,7 @@
 
 ![](https://emojis.sh/emoji/web-developer-working-on-his-laptop-LjgemHqx0o.jpeg)
 
-# TECHNICIEN SYSTEME ET RESEAU #
+# **TECHNICIEN SYSTEME ET RESEAU** #
 
 > Suite à la fermeture de l'entreprise dans laquelle j'ai travaillé 17 ans, j'ai décidé de me lancer dans une reconversion professionnelle, à savoir dans les métiers de la tech. En effet, j'ai toujours été attiré par l'informatique et tous ces possibilités. Après avoir étudié les différents secteurs de l'IT, j'ai opté pour les systèmes et réseaux pour commencer et voir par la suite.
 
@@ -25,7 +25,7 @@ Mars 2020 / Novembre 2022
 
 ### DIPLOMES ET CURSUS SCOLAIRE ###
 
-> **Module de formation interne avec Adecco Training** [Ci-jointladocumentation] (https://www.adeccotraining.fr/thematique/management)
+> **Module de formation interne avec Adecco Training** [_Ci-joint la doc_] (https://www.adeccotraining.fr/thematique/management)
 Management et gestion de personnel
 
 > **1ère Année BTS Commerce International**<br>
