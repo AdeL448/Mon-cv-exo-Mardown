@@ -1,4 +1,4 @@
-# Adel N #
+<center># Adel N #</center>
 
 ![](https://emojis.sh/emoji/web-developer-working-on-his-laptop-LjgemHqx0o.jpeg)
 
@@ -13,10 +13,10 @@
 
 ### EXPERIENCES PROFESSIONNELLES ###
 
-> _Chef d'équipe Logistique_ / * Cotelle SA, COLGATE-PALMOLIVE*
+> _Chef d'équipe Logistique_ / **Cotelle SA, COLGATE-PALMOLIVE**
 Novembre 2022 / Septembre 2024
 
-> _Assistant Logistique_  / * Cotelle SA, COLGATE-PALMOLIVE*
+> _Assistant Logistique_  / **Cotelle SA, COLGATE-PALMOLIVE**
 Responsable des planifications et expéditions
 Mars 2020 / Novembre 2022
 
